@@ -1,0 +1,4 @@
+aliyun-oss:
+    accessKeyId: "XXXXXXXXX"
+    accessKeySecret: "XXXXXX"
+    endpoint: "oss-cn-beijing.aliyuncs.com"
